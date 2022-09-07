@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mithilesh Dalvi An enthusiastic fresher with highly motivated and leadership skills.Currently in Final Year IT Engineering.
+- 👋 Hi, I’m Mithilesh Dalvi.
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Deep learning
 - 📫 How to reach me Email : dalvimithilesh8@gmail.com
